@@ -1,0 +1,24 @@
+#' @title DATASET_TITLE
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 1178 rows and 17 variables:
+#' \describe{
+#'   \item{\code{iso}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{year}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{log_num_poverty}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{top_ten_share}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{bottom_fifty_share}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{control_of_corruption}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{rule_of_law}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{political_stability_no_violence}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{voice_and_accountability}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{government_effectiveness}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{regulatory_quality}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{country_name}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{log_gdp_per_cap}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{country}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{gini_disp}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{epi}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{weighted_epi}}{double COLUMN_DESCRIPTION}
+#'}
+#' @details DETAILS
+"epi_data"
