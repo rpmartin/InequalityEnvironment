@@ -1,6 +1,6 @@
 # making a "copy" of a data.table (new_table <- old_table) and setting keys on new_table
 # resets keys on old_table. To get an *actual* copy of data.table use new_table <- copy(old_table)
-
+library(devtools)
 library(janitor)
 library(readxl)
 library(magrittr) # for %<>% operator in function get_one_sheet
@@ -340,4 +340,9 @@ use_data(canada, overwrite = TRUE)
 use_data(canada_partners, overwrite = TRUE)
 use_data(epi_data, overwrite = TRUE)
 use_data(indicator_series, overwrite = TRUE)
+
+
+
+
+
 

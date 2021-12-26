@@ -1,3 +1,5 @@
+library("devtools")
+library("InequalityEnvironment")
 library("tidyverse")
 library("GGally")
 library("plotly")
