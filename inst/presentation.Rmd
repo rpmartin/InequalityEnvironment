@@ -45,19 +45,19 @@ trigger both new vulnerabilities and some opportunities for individuals and comm
 
 >The income share of the top 10% increases [U.S. state-level] CO2 emissions. @jorgenson2017income
 
-![](images/waterslide.webp){height=300px}&emsp;&emsp;![](images/bugatti-chiron-pur-sport-103-1582gg-1626097378.jpeg){height=300px}&emsp;&emsp;![](images/Alisher-Usmanov-Airbus-A340-730x524.jpg){height=300px}
+![](images/waterslide.webp-1024x.jpg-50p.jpg){height=250px}&emsp;&emsp;![](images/bugatti.jpg){height=250px}&emsp;&emsp;![](images/Alisher-Usmanov-Airbus-A340-730x524.jpg-1024x.jpg-50p.jpg){height=250px}
 
 2)  People living in poverty have more pressing concerns than making enviro-friendly choices.
 
-![](images/poverty.png){height=300px}&emsp;&emsp;![](images/Blog6-FactsAboutPovertyphoto.jpg){height=300px}
+![](images/poverty.png-1024x.jpg-50p.jpg){height=250px}&emsp;&emsp;![](images/Blog6-FactsAboutPovertyphoto.jpg-1024x.jpg-50p.jpg){height=250px}
 
 ## 1000 rivers with highest plastic output:
 
-![source: https://theoceancleanup.com/sources/](images/garbage.png){height=80%}
+![source: https://theoceancleanup.com/sources/](images/garbage.png-1024x.jpg-50p.jpg)
 
 ## Missmanaged Plastic Waste Per Capita
 
-![](images/mismanaged-plastic-waste-per-capita.png){height=900px}
+![](images/mismanaged-plastic-waste-per-capita.png){height=600px}
 
 ## Other mechanisms:
 
@@ -65,7 +65,7 @@ trigger both new vulnerabilities and some opportunities for individuals and comm
 
 2) @ravallion2000carbon and @levinson2019environmental find that emissions are *lower* with higher inequality. 
 
-![source: Levinson and O’Brien (2019)](images/eec.png){height=300px}
+![source: Levinson and O’Brien (2019)](images/eec.png-1024x.jpg-50p.jpg){height=300px}
 
   -  Environmental Engel Curves are concave because savings rates increase and/or preferences shift towards less pollution intensive goods when income increases. 
 
@@ -82,7 +82,7 @@ ggplotly(rr) %>%
 
 ## The planetary boundaries:
 
-![Stockholm Resilience Centre](images/pb.png){ height=50% }
+![Stockholm Resilience Centre](images/pb.png-1024x.jpg-50p.jpg){ height=50% }
 <figcaption>source: J. Lokrantz/Azote based on @steffen2015planetary </figcaption>
 
 * We are in the midst of the world's 6th extinction crisis: @pimm1995future, @lawton1995extinction, @de2015estimating, @pimm2014biodiversity, @diaz2019global.
@@ -95,7 +95,7 @@ ggplotly(rr) %>%
 
 * Environmental Performance Index (EPI) is a data-driven summary of the state of sustainability based on 32 performance indicators across 11 issue categories.
 
-![source: @epi](images/epi.png){width=16,height=9}
+![source: @epi](images/epi.png-1024x.jpg-50p.jpg){height=500px}
 
 * EPI scores are available for the years `r sort(unique(epi_data$year))`, but
 
@@ -117,7 +117,7 @@ yearly_indicator_diff
 
 > ... is like an exquisitely balanced French recipe, spelling out precisely with how many turns to mix the sauce, how many carats of spice to add, and for how many milliseconds to bake the mixture at exactly 474 degrees of temperature. But when the statistical cook turns to raw materials, he finds that hearts of cactus fruit are unavailable, so he substitutes chunks of cantaloupe; where the recipe calls for vermicelli he uses shredded wheat; and he substitutes green garment dye for curry, ping-pong balls for turtle's eggs and, for Chalifougnac vintage 1883, a can of turpentine (Stefan Valavanis)
 
-![source: https://i.ytimg.com/vi/m3ce5heo3ns/maxresdefault.jpg](images/ugly.jpeg){width=4,height=4}
+![source: https://i.ytimg.com/vi/m3ce5heo3ns/maxresdefault.jpg](images/ugly.jpeg-1024x.jpg-50p.jpg){width=4,height=4}
 
 
 ## Domestic inequality over time:
@@ -216,7 +216,7 @@ hr
 
 * In contrast, EPI scores attribute pollution to (the country of) the producer.
      
-![source:https://www.econlib.org/reflections-on-the-sopranos/](images/sopranos.jpg){height=300px}
+![source:https://www.econlib.org/reflections-on-the-sopranos/](images/sopranos.jpg-1024x.jpg-50p.jpg){height=300px}
 
 * Attributing emissions to (the country of) the consumer is similar to the intent of the RICO Act: Pre-RICO, a person who instructed someone else to murder could be exempt from prosecution because they did not personally commit the crime.
 
@@ -224,7 +224,7 @@ hr
 
 * at least not usually...
 
-![source:NRDC.org](images/smoking-gun.jpeg){}
+![source:NRDC.org](images/smoking-gun.jpeg-1024x.jpg-50p.jpg){}
 
 
 ## Using trade data to adjust EPIs   
@@ -328,7 +328,7 @@ regressions %>%
 *   The tradeoff: more effort more fish (if there are enough fish) vs. more effort lower probability there are enough fish.
 *   For example, suppose that the sum of all the individual effort choices is <span class="math inline">\(e_1+e_2+e_3=45\)</span>: what is the probability there is enough fish?
 
-<img width="30%" src="images/fish.png">
+<img width="30%" src="images/fish.png-1024x.jpg-50p.jpg">
 
 *   If the total effort is 45, the probability there is enough fish is .25.  
 
